@@ -239,6 +239,12 @@ Success Ogbenna
 - Github - https://github.com/successogbenna
 - Stack - FullStack
 
+Oke Abosede
+- Email - perfectnyke@gmail.com
+- GitHub - Github.com/Ade-nike17
+- Stack - FullStack
+
+
 ## Acknowledgements
 - This project was inspired by Zuri
 - Many thanks to Zuri and Ingressive 4 good
