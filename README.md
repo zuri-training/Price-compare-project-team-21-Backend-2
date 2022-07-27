@@ -241,7 +241,7 @@ Success Ogbenna
 
 Oke Abosede
 - Email - perfectnyke@gmail.com
-- GitHub - Github.com/Ade-nike17
+- GitHub - https://github.com/Ade-nike17
 - Stack - FullStack
 
 
