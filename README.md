@@ -249,11 +249,6 @@ ezemenahi chiamaka sylvia
 - GitHub - https://github.com/chezclsy
 - Stack - Product Design
 
-Adeboun Toyosi
-- Email - davideboun@gmail.com
-- GitHub - https://github.com/davideboun21
-- Stack - Backend
-
 ## Acknowledgements
 - This project was inspired by Zuri
 - Many thanks to Zuri and Ingressive 4 good
