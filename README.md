@@ -89,14 +89,14 @@ Project is: _in progress_
 
 
 ## Collaboration
-1.  Fork this repository and create a project folde on your local manchine
+1.  Fork this repository and create a project folder on your local machine
 
 2. Navigate to the terminal (pointing to your project folder/directory), Clone and then open it up on your prefered code editor
 ```bash 
 git clone https://github.com/<your github username>/Price-compare-project-team-21-Backend.git
 ```
 
-3.  Open terminal and set upsream branch:  
+3.  Open terminal and set upstream branch:  
 ```bash 
 git remote add upstream https://github.com/zuri-training/Price-compare-project-team-21-Backend.git
 ```
