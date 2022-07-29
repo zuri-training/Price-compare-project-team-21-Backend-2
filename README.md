@@ -2,8 +2,13 @@
 
 
 # PriceBeta - A price aggregator website
-> PriceBeta, a comparison shopping engine, is a tool or platform that allows users to compare price of various products, and shipping options  across multiple merchants and retailers platforms and in the process presenting the users with price offers that best meets their interest. Check details about the project here: https://docs.google.com/document/d/1yaiog7p-ce9JNXCFoObXCryWerGuXBECMKkDxz2Il1Y/edit?usp=sharing
+> PriceBeta, a comparison shopping engine, is a tool or platform that allows users to compare price of various products, and shipping options  across multiple merchants and retailers platforms and in the process presenting the users with price offers that best meets their interest.
 
+### Project Documentation
+> <a href="https://docs.google.com/document/d/1yaiog7p-ce9JNXCFoObXCryWerGuXBECMKkDxz2Il1Y/edit">Team 21_Price compare</a>
+
+### Member Info and Attendance
+> <a href="https://docs.google.com/spreadsheets/d/1Q-leU7gkbaB_k7wxZxNqxBdzxy9mPy5qTXtAS71bToQ/edit">Team 21_Price Compare</a>
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -81,7 +86,7 @@ Authenticated Users:
 - Customize your profile
 - Search for your preffered product
 - Compare prices from search results
-- Proceed to buy from your choosen marchant/retailer
+- Proceed to buy from your choosen merchant/retailer
 
 
 ## Project Status
