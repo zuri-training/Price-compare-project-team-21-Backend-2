@@ -7,8 +7,11 @@
 ### Project Documentation
 > <a href="https://docs.google.com/document/d/1yaiog7p-ce9JNXCFoObXCryWerGuXBECMKkDxz2Il1Y/edit">Team 21_Price compare</a>
 
+## Project Database Schema
+> <a href="https://www.figma.com/file/2Rm18o3n7a86AcfpdZgrYF/PriceBeta?node-id=221%3A2019">Team 21_Price compare</a>
+
 ### Member Info and Attendance
-> <a href="https://docs.google.com/spreadsheets/d/1Q-leU7gkbaB_k7wxZxNqxBdzxy9mPy5qTXtAS71bToQ/edit">Team 21_Price Compare</a>
+> <a href="https://docs.google.com/spreadsheets/d/1Q-leU7gkbaB_k7wxZxNqxBdzxy9mPy5qTXtAS71bToQ/edit">Team 21_Price compare</a>
 
 ## Table of Contents
 * [General Information](#general-information)
