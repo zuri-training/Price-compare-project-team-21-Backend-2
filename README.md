@@ -86,7 +86,7 @@ Authenticated Users:
 - Customize your profile
 - Search for your preffered product
 - Compare prices from search results
-- Proceed to buy from your choosen marchant/retailer
+- Proceed to buy from your choosen merchant/retailer
 
 
 ## Project Status
