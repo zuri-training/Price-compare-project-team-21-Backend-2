@@ -39,7 +39,7 @@
 - HTML/CSS/Javascript (Frontend)
 - MYSQL (Database)
 - Bootstrap - version 5.0 (Frontend Library)
-- Django - version (Backend)
+- Django - version 4.0 (Backend)
 
 
 ## Features
