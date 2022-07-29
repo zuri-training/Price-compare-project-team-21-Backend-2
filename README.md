@@ -10,7 +10,7 @@
 ### Project Figma Board
 > <a href="https://www.figma.com/file/2Rm18o3n7a86AcfpdZgrYF/PriceBeta?node-id=0%3A1">Team 21_Price compare</a>
 
-## Project Database Schema
+### Project Database Schema
 > <a href="https://www.figma.com/file/2Rm18o3n7a86AcfpdZgrYF/PriceBeta?node-id=221%3A2019">Team 21_Price compare</a>
 
 ### Member Info and Attendance
