@@ -4,6 +4,7 @@ from django.shortcuts import render, redirect
 
 # from priceBetaApp.forms import SignUpForm
 
+
 def index(request):
      user = request.user
      return render(request,'index.html')
