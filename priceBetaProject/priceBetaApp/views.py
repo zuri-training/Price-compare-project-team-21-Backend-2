@@ -7,5 +7,4 @@ from django.shortcuts import render, redirect
 
 
 def index(request):
-     user = request.user
      return render(request,'index.html')
