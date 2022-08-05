@@ -1,6 +1,6 @@
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.forms import UserCreationForm
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, HttpResponse
 
 
 # from priceBetaApp.forms import SignUpForm
@@ -8,3 +8,15 @@ from django.shortcuts import render, redirect
 
 def index(request):
      return render(request,'index.html')
+
+def Product(request):
+    return HttpResponse("It is working")
+
+def Category(request):
+    return HttpResponse('Working')
+
+def Store(request):
+    return HttpResponse('Working')
+
+def Wishlist(request):
+    return HttpResponse('Working')
