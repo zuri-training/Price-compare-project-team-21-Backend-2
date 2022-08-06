@@ -16,6 +16,8 @@ Including another URLconf
 import django.contrib.auth.views
 from django.contrib import admin
 from django.urls import path, include
+from django.conf.urls.static import static
+from django.conf import settings
 
 from priceBetaApp import views
 urlpatterns = [
@@ -24,3 +26,9 @@ urlpatterns = [
     path("accounts/", include("Accounts.urls")),
     path("", include("priceBetaApp.urls")),
 ]
+
+
+
+# Configuring the media folder 
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings    )

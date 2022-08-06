@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     #Created apps
     'priceBetaApp',
     'Accounts',
+    'priceBetaApp',
     
 ]
 
@@ -133,3 +134,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = "index"
 LOGOUT_REDIRECT_URL = "index"
+
+# Informing Django about the media folder that was created
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+

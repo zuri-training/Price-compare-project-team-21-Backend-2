@@ -168,6 +168,11 @@ Chukwuemeka Orioha
 - Github - https://github.com/Chuksorio
 - Stack - FullStack
 
+Forever Obaseki 
+- Email - foreverobaseki@gmail.com 
+- Github - https://github.com/EverObas
+- Stack - Product Design
+
 Buhari Yusuf
 - Email - buhariyusuf@gmail.com
 - Github - https://github.com/Yblaq
