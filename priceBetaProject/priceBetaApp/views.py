@@ -1,6 +1,8 @@
+from multiprocessing import context
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.forms import UserCreationForm
 from django.shortcuts import render, redirect, HttpResponse
+
 
 
 # from priceBetaApp.forms import SignUpForm
@@ -20,3 +22,4 @@ def Store(request):
 
 def Wishlist(request):
     return HttpResponse('Working')
+

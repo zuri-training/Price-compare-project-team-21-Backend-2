@@ -12,3 +12,4 @@ class SignUpView(CreateView):
     template_name = "registration/signup.html"
 
 
+
