@@ -7,8 +7,10 @@ from operator import mod
 from tabnanny import verbose
 from tkinter import CASCADE
 from django.db import models
-from django.contrib.auth.models import User
+from django.contrib.auth import get_user_model
 
+#defined the user
+User = get_user_model()
 
 # class CustomDateTimeField(models.DateTimeField):
 #     def value_to_string(self, obj):

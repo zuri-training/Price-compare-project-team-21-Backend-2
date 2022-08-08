@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     #Created apps
     'priceBetaApp',
     'Accounts',
-    'priceBetaApp',
     
 ]
 
