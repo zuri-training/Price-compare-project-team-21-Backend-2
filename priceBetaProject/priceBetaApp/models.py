@@ -4,7 +4,7 @@ from distutils.command.upload import upload
 from email.policy import default
 from itertools import product
 from operator import mod
-from tabnanny import verbose
+from tabnanny import verboseprice-compare
 from tkinter import CASCADE
 from django.db import models
 from django.contrib.auth import get_user_model
